@@ -1,37 +1,64 @@
 ## Сергей Базлов
 
-You can use the [editor on GitHub](https://github.com/sab1982/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Контакты
+ +7 (927) 155-13-53
+ <br>
+sab1982@mail.ru — предпочитаемый способ связи
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+Белгород, не готова к переезду, не готова к командировкам
+<br>
+Начинающий специалист тестировщик
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Специализации:
+Тестировщик
+<br>
+Занятость: частичная занятость
+<br>
+График работы: удаленная работа
+<br>
+<br>
+Ключевые навыки:
+<br>
+Исполнительность,
+умение организовывать работу, планировать, принимать решения,
+способность анализировать проблемы, эффективно искать пути их разрешени,
+уверенное пользование ПК, знание программ MS Office,
+ПП Парус; 1-С Бухгалтерия; Консультант+; Электронный документооборот,
+Налоговая отчетность.
+БФТ.
+АЦК.
+Postman.
+Бухгалтерская отчетность.
+<br>
+<br>
+Обо мне:
+<br>
+Последние годы работала в сфере бухгалтерии, но всегда интересовала IT-сфера. Целеустремленная. Люблю узнавать все новое, люблю учиться.
+<br>
+<br>
+Образование:
+<br>
+2022
+<br>
+Онлайн школа SkillFactory
+<br>
+Тестировщик-автоматизатор на Python (QAP)
+<br>
+<br>
+2007
+<br>
+Белгородский государственный технологический университет им. В.Г. Шухова, Белгород
+<br>
+анализ и аудит, Бухгалтерский учет, анализ и аудит
+<br>
+Знание языков
+Русский — Родной
+<br>
 
-```markdown
-Syntax highlighted code block
+Английский — A1 — Начальный
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sab1982/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Гражданство: Россия
